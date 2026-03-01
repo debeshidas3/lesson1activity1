@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 def add(p,q):
     return p+q
 def subtract(p,q):
@@ -25,6 +26,8 @@ elif choice=='d':
      print(divide(num1,num2))
 else:
 =======
+=======
+>>>>>>> Stashed changes
 def add(p,q):
     return p+q
 def subtract(p,q):
@@ -50,5 +53,8 @@ elif choice=='c':
 elif choice=='d':
      print(divide(num1,num2))
 else:
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     print("invalid")                

@@ -21,6 +21,7 @@ while running:
 
     pygame.display.flip()  # Update the display
 
+<<<<<<< Updated upstream
 pygame.quit()
 import pygame
 pygame.init
@@ -45,4 +46,6 @@ while running:
 
     pygame.display.flip()  # Update the display
 
+=======
+>>>>>>> Stashed changes
 pygame.quit()

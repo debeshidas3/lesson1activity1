@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import turtle
 
 # Setup screen
@@ -21,6 +22,8 @@ pen.hideturtle()
 # Keep the window open
 screen.mainloop()
 =======
+=======
+>>>>>>> Stashed changes
 import turtle
 
 # Setup screen
@@ -42,4 +45,7 @@ pen.hideturtle()
 
 # Keep the window open
 screen.mainloop()
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

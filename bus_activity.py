@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 class Vehicle:
       def __init__(self,name,max_speed,mileage):
           self.name = name
@@ -9,6 +10,8 @@ class Bus(Vehicle):
 
 school_bus = Bus("School volvo",180,12)
 =======
+=======
+>>>>>>> Stashed changes
 class Vehicle:
       def __init__(self,name,max_speed,mileage):
           self.name = name
@@ -18,5 +21,8 @@ class Bus(Vehicle):
     pass          
 
 school_bus = Bus("School volvo",180,12)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 print("vehicle name:",school_bus.name,"speed:",school_bus.max_speed,"mileage:",school_bus.mileage)

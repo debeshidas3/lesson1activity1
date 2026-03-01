@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 tuple1=[1,3,5,7,9]
 tuple2=[2,4,6,8,10]
 def multiply(p,q):
@@ -8,6 +9,8 @@ def multiply(p,q):
 result = [multiply(x, y) for x, y in zip(tuple1, tuple2)]
 print(result)
 =======
+=======
+>>>>>>> Stashed changes
 tuple1=[1,3,5,7,9]
 tuple2=[2,4,6,8,10]
 def multiply(p,q):
@@ -16,4 +19,7 @@ def multiply(p,q):
 # Example usage:
 result = [multiply(x, y) for x, y in zip(tuple1, tuple2)]
 print(result)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

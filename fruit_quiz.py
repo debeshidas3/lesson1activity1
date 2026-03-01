@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import random
 
 class FruitQuiz:
@@ -27,6 +28,8 @@ class FruitQuiz:
                  break                                         
 
 =======
+=======
+>>>>>>> Stashed changes
 import random
 
 class FruitQuiz:
@@ -54,4 +57,7 @@ class FruitQuiz:
              if(option):
                  break                                         
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

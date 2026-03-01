@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 print("Welcome to the Grading System!")
 
 # Taking marks of 5 subjects
@@ -64,6 +65,8 @@ grade = "E2"
 print("Your Grade is:", grade)
 
 =======
+=======
+>>>>>>> Stashed changes
 print("Welcome to the Grading System!")
 
 # Taking marks of 5 subjects
@@ -108,4 +111,7 @@ else:
 # Show grade
 print("Your Grade is:", grade)
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

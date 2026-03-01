@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 class A:
     def __init__(self,a):
         self.a = a
@@ -22,6 +23,8 @@ ob3 = A(4)
 ob4 = A(4)
 print("Passed Values :",ob3.a,ob4.a)
 =======
+=======
+>>>>>>> Stashed changes
 class A:
     def __init__(self,a):
         self.a = a
@@ -44,5 +47,8 @@ print(ob1 < ob2)
 ob3 = A(4)
 ob4 = A(4)
 print("Passed Values :",ob3.a,ob4.a)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 print(ob3 == ob4)

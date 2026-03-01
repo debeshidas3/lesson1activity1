@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import calender
 import datetime 
 print("1.January")
@@ -15,6 +16,8 @@ print("11.November")
 print("12.December")
 now=datetime.datetime.now()
 =======
+=======
+>>>>>>> Stashed changes
 import calender # display all the months
 import datetime 
 print("1.January")
@@ -30,5 +33,8 @@ print("10.October")
 print("11.November")
 print("12.December")
 now=datetime.datetime.now()
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 print("month and date is",now)

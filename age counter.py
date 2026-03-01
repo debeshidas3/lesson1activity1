@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 try:
     name = input("Please enter your name: ")
     print("The name entered is", name)
@@ -13,6 +14,8 @@ try:
 except ValueError:
     print("Error: Please enter a valid number for age.")
 =======
+=======
+>>>>>>> Stashed changes
 try:
     name = input("Please enter your name: ")
     print("The name entered is", name)
@@ -26,4 +29,7 @@ try:
 
 except ValueError:
     print("Error: Please enter a valid number for age.")
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

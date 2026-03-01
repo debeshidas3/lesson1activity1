@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import pygame
 import random
 
@@ -157,6 +158,8 @@ clock.tick(240)
 # Uninitialize all pygame modules and close the window
 
 =======
+=======
+>>>>>>> Stashed changes
 import pygame
 import random
 
@@ -314,5 +317,8 @@ clock.tick(240)
 
 # Uninitialize all pygame modules and close the window
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 pygame.quit()

@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 lower=int(input("enter lower range"))
 upper=int(input("enter upper range"))
 print("prime numbers between",lower,"and",upper)
@@ -11,6 +12,8 @@ for num in range(lower,upper+1):
             print(num)
                 
 =======
+=======
+>>>>>>> Stashed changes
 lower=int(input("enter lower range"))
 upper=int(input("enter upper range"))
 print("prime numbers between",lower,"and",upper)
@@ -22,5 +25,8 @@ for num in range(lower,upper+1):
         else:
             print(num)
                 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
             

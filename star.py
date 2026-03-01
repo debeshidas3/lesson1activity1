@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import turtle
 screen=turtle.Screen()
 screen.bgcolor("black")
@@ -10,6 +11,8 @@ for i in range(5):
     star.right(144)
 turtle.done()    
 =======
+=======
+>>>>>>> Stashed changes
 import turtle
 screen=turtle.Screen()
 screen.bgcolor("black")
@@ -20,4 +23,7 @@ for i in range(5):
     star.forward(100)
     star.right(144)
 turtle.done()    
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

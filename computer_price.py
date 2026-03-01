@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 class Computer:
     def __init__(self):
         self.__maxprice = 900
@@ -19,6 +20,8 @@ c.sell()
 # using setter function (this WILL work)
 c.setMaxPrice(1000)
 =======
+=======
+>>>>>>> Stashed changes
 class Computer:
     def __init__(self):
         self.__maxprice = 900
@@ -38,5 +41,8 @@ c.sell()
 
 # using setter function (this WILL work)
 c.setMaxPrice(1000)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 c.sell()

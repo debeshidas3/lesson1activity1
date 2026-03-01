@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 for x in range(10):
     if x%20==0:
        print("twist")
@@ -10,6 +11,8 @@ for x in range(10):
         print("buzz")
     else:
 =======
+=======
+>>>>>>> Stashed changes
 for x in range(10):
     if x%20==0:
        print("twist")
@@ -20,5 +23,8 @@ for x in range(10):
     elif x%3==0:
         print("buzz")
     else:
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         print(x)           

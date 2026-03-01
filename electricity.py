@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 units=int(input("enter the number of units consumed"))
 if(units<50):
   amount=units*2.60
@@ -14,6 +15,8 @@ else:
     tax=75
 total=amount+tax
 =======
+=======
+>>>>>>> Stashed changes
 units=int(input("enter the number of units consumed"))
 if(units<50):
   amount=units*2.60
@@ -28,5 +31,8 @@ else:
     amount=units*8.45
     tax=75
 total=amount+tax
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 print(total)            

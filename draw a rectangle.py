@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import pygame
 
 pygame.init()
@@ -26,6 +27,8 @@ while not done:
       clock.tick(60)
 
 =======
+=======
+>>>>>>> Stashed changes
 import pygame
 
 pygame.init()
@@ -52,5 +55,8 @@ while not done:
 
       clock.tick(60)
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 pygame.quit()

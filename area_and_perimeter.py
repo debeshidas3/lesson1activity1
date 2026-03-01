@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 class Circle:
     def __init__(self, r):
         self.r = r
@@ -14,6 +15,8 @@ c = Circle(r)
 
 print("Area =", c.area())
 =======
+=======
+>>>>>>> Stashed changes
 class Circle:
     def __init__(self, r):
         self.r = r
@@ -28,5 +31,8 @@ r = float(input("Enter radius: "))
 c = Circle(r)
 
 print("Area =", c.area())
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 print("Perimeter =", c.perimeter())

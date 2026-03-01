@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 try:
    num1,num2=eval(input("enter two numbers separated by comma"))
    result=num1/num2
@@ -13,6 +14,8 @@ else:
     print("no exception")
 finally:
 =======
+=======
+>>>>>>> Stashed changes
 try:
    num1,num2=eval(input("enter two numbers separated by comma"))
    result=num1/num2
@@ -26,5 +29,8 @@ except:
 else:
     print("no exception")
 finally:
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
        print("this will execute no matter what")              

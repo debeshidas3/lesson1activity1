@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 class myClass:
         __privateVar = 27;
 
@@ -10,6 +11,8 @@ class myClass:
 foo = myClass()
 foo.hello()           
 =======
+=======
+>>>>>>> Stashed changes
 class myClass:
         __privateVar = 27;
 
@@ -20,5 +23,8 @@ class myClass:
             print("private Variable value:",myClass.__privateVar)
 foo = myClass()
 foo.hello()           
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 foo.__privMeth()

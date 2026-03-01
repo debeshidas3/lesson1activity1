@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 class child:
       def __init__(self,name,age,grade):
           self.name = name
@@ -24,6 +25,8 @@ final_fare = total_fare
 print("Total fare:", total_fare)
 print("Final fare:", final_fare)
 =======
+=======
+>>>>>>> Stashed changes
 class child:
       def __init__(self,name,age,grade):
           self.name = name
@@ -48,4 +51,7 @@ final_fare = total_fare
 
 print("Total fare:", total_fare)
 print("Final fare:", final_fare)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 words=["mom","dad","apple","book","wow"]
 count=0
 for word in words:
@@ -6,11 +7,16 @@ for word in words:
        count=count+1
 print("number of words with same first and last letter",count)
 =======
+=======
+>>>>>>> Stashed changes
 words=["mom","dad","apple","book","wow"]
 count=0
 for word in words:
     if len(word)>=2 and word[0]==word[-1]:
        count=count+1
 print("number of words with same first and last letter",count)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         

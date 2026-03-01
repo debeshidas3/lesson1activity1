@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import pygame
 
 pygame.init()
@@ -14,6 +15,8 @@ while not done:
             pygame.quit()
 
 =======
+=======
+>>>>>>> Stashed changes
 import pygame
 
 pygame.init()
@@ -28,5 +31,8 @@ while not done:
         if event.type == pygame.QUIT:
             pygame.quit()
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       pygame.display.flip()      

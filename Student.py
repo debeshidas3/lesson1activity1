@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 class Student:
 
       grade = 10
@@ -12,6 +13,8 @@ class Student:
 
 ob = Student()
 =======
+=======
+>>>>>>> Stashed changes
 class Student:
 
       grade = 10
@@ -24,5 +27,8 @@ class Student:
 # create an object
 
 ob = Student()
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       

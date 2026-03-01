@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 data = {'Codignal': 3, 'is': 2, 'best': 2, 'for': 2, 'coding':1}
 
 n = int(input("Please enter the value: "))
@@ -12,6 +13,8 @@ else:
     print(f"The value {n} is not in the dictionary values.")
 
 =======
+=======
+>>>>>>> Stashed changes
 data = {'Codignal': 3, 'is': 2, 'best': 2, 'for': 2, 'coding':1}
 
 n = int(input("Please enter the value: "))
@@ -24,5 +27,8 @@ if n in data.values():
 else:
     print(f"The value {n} is not in the dictionary values.")
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
  

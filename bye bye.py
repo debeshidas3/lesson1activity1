@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 valid=False
 while not valid:
     try:
@@ -8,6 +9,8 @@ while not valid:
         valid=True
     except ValueError:
 =======
+=======
+>>>>>>> Stashed changes
 valid=False
 while not valid:
     try:
@@ -16,5 +19,8 @@ while not valid:
                    print("bye")
         valid=True
     except ValueError:
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                      print("in valid")  

@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import random
 import string
 
@@ -14,6 +15,8 @@ def generate_password(length=10):
 
 print(generate_password(26))
 =======
+=======
+>>>>>>> Stashed changes
 import random
 import string
 
@@ -27,5 +30,9 @@ def generate_password(length=10):
     password = ''.join(random.choice(all_chars) for _ in range(length))
     return password
 
+<<<<<<< Updated upstream
+print(generate_password(100))
+>>>>>>> Stashed changes
+=======
 print(generate_password(100))
 >>>>>>> Stashed changes

@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 # Taking total amount as input from user
 
 Amount =int(input("Please Enter Amount for Withdraw :"))
@@ -16,6 +17,8 @@ print( "notes of 100 rupee" , note_1)
 print("notes of 50 rupee" , note_2)
 
 =======
+=======
+>>>>>>> Stashed changes
 # Taking total amount as input from user
 
 Amount =int(input("Please Enter Amount for Withdraw :"))
@@ -32,5 +35,8 @@ print( "notes of 100 rupee" , note_1)
 
 print("notes of 50 rupee" , note_2)
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 print("notes of 10 rupee" , note_3)

@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 tuplex = ("tuple", False, 3.2, 1)
 print(tuplex)
 
@@ -24,6 +25,8 @@ print(_slice)
 
 _slice = tuplex[:6]
 =======
+=======
+>>>>>>> Stashed changes
 tuplex = ("tuple", False, 3.2, 1)
 print(tuplex)
 
@@ -48,5 +51,8 @@ print(_slice)
 
 
 _slice = tuplex[:6]
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 print(_slice)

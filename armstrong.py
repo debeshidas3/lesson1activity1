@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 num=int(input("enter a number"))
 sum=0
 temp=num
@@ -10,6 +11,8 @@ if num==sum:
    print(num,"is an armstrong number")
 else:
 =======
+=======
+>>>>>>> Stashed changes
 num=int(input("enter a number"))
 sum=0
 temp=num
@@ -20,5 +23,8 @@ while temp>0:
 if num==sum:
    print(num,"is an armstrong number")
 else:
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     print("it is not an armstrong number")        

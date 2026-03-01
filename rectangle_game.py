@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import pygame
 pygame.init()
 
@@ -24,6 +25,8 @@ while running:
     pygame.display.flip()
 
 =======
+=======
+>>>>>>> Stashed changes
 import pygame
 pygame.init()
 
@@ -48,5 +51,8 @@ while running:
     pygame.draw.rect(s, "purple", p)
     pygame.display.flip()
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 pygame.quit()

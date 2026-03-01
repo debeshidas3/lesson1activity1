@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 def shutdown():
     """
     Simulate a shutdown command with validation.
@@ -21,6 +22,8 @@ if __name__ == "__main__":
     print("Dhriti: I’m finding it hard to switch off the system.")
     shutdown()
 =======
+=======
+>>>>>>> Stashed changes
 def shutdown():
     """
     Simulate a shutdown command with validation.
@@ -42,4 +45,7 @@ if __name__ == "__main__":
     # Simulate Dhriti’s situation
     print("Dhriti: I’m finding it hard to switch off the system.")
     shutdown()
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

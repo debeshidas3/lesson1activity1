@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import turtle
 import random
 # screen setup
@@ -119,6 +120,8 @@ draw_sparkles()
 turtle.done()
 
 =======
+=======
+>>>>>>> Stashed changes
 import turtle
 import random
 # screen setup
@@ -238,4 +241,7 @@ draw_sparkles()
 
 turtle.done()
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

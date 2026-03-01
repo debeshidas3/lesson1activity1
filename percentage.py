@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 maths=40
 science=70
 hindi=50
@@ -8,6 +9,8 @@ print(sum)
 percentage=(sum/400)*100
 print(percentage)
 =======
+=======
+>>>>>>> Stashed changes
 maths=40
 science=70
 hindi=50
@@ -16,4 +19,7 @@ sum=maths+science+hindi+english
 print(sum)
 percentage=(sum/400)*100
 print(percentage)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

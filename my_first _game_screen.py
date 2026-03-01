@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import pygame
 
 pygame.init()
@@ -55,6 +56,8 @@ pygame.quit()
 # pygame.display.flip()               
 
 =======
+=======
+>>>>>>> Stashed changes
 import pygame
 
 pygame.init()
@@ -110,5 +113,8 @@ pygame.quit()
 # screen.fill(grey)
 # pygame.display.flip()               
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 # pygame.quit()

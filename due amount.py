@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 def main():
     total = 2.55
     paid = 4.00
@@ -9,6 +10,8 @@ def main():
 if __name__ == "__main__":
     main()
 =======
+=======
+>>>>>>> Stashed changes
 def main():
     total = 2.55
     paid = 4.00
@@ -18,4 +21,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

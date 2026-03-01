@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 print("lets pick a ride")
 print("1.bike")
 print("2.car")
@@ -23,6 +24,8 @@ if ride=="2":
       print("you picked a small car")
    else:
 =======
+=======
+>>>>>>> Stashed changes
 print("lets pick a ride")
 print("1.bike")
 print("2.car")
@@ -46,5 +49,8 @@ if ride=="2":
    if car=="a":
       print("you picked a small car")
    else:
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
        print("you pick a big car")          

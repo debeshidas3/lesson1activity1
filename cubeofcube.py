@@ -1,6 +1,11 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 def cube(num):
     return num*num*num
+=======
+def cube(num):
+    return num*num*num
+>>>>>>> Stashed changes
 =======
 def cube(num):
     return num*num*num

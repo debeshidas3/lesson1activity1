@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 class Vehicle:
     def __init__(self,maxspeed,fuel_type):
         self.maxspeed = maxspeed
@@ -26,6 +27,8 @@ car2 = Ferrari(350, "Petrol")
 # polymorphic behavior: same method name, different output
 for car in (car1, car2):
 =======
+=======
+>>>>>>> Stashed changes
 class Vehicle:
     def __init__(self,maxspeed,fuel_type):
         self.maxspeed = maxspeed
@@ -52,5 +55,8 @@ car2 = Ferrari(350, "Petrol")
 
 # polymorphic behavior: same method name, different output
 for car in (car1, car2):
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     car.show_info()        

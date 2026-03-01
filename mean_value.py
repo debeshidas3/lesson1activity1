@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 mean1=38
 
 wrong_number=36
@@ -24,6 +25,8 @@ print("CORRECTED SUM",SUM2)
 mean2=SUM2/total_number
 
 =======
+=======
+>>>>>>> Stashed changes
 mean1=38
 
 wrong_number=36
@@ -48,5 +51,8 @@ print("CORRECTED SUM",SUM2)
 
 mean2=SUM2/total_number
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 print(mean2)

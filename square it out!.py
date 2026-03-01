@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 n=int(input("enter the start range:"))
 a=int(input("enter the end range:"))
 
@@ -13,6 +14,8 @@ print("Odd squares:", odds)
     
         
 =======
+=======
+>>>>>>> Stashed changes
 n=int(input("enter the start range:"))
 a=int(input("enter the end range:"))
 
@@ -26,4 +29,7 @@ print("Odd squares:", odds)
 
     
         
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

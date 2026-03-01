@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 class Animal:
 def __init__(self,breed,color):
     self.breed = breed
@@ -19,6 +20,8 @@ dog1.show()
 dog2.show()
 
 =======
+=======
+>>>>>>> Stashed changes
 class Animal:
 def __init__(self,breed,color):
     self.breed = breed
@@ -38,5 +41,8 @@ dog2 = Dog("Max", "Bulldog", "Brindle")
 dog1.show()
 dog2.show()
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 print("\n\"No matter the breed or the color — a dog's heart is always pure.\"")   

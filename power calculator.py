@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 # Power Calculator - Designed by Brisha
 
 def power_calculator():
@@ -18,6 +19,8 @@ def power_calculator():
 power_calculator()
 
 =======
+=======
+>>>>>>> Stashed changes
 # Power Calculator - Designed by Brisha
 
 def power_calculator():
@@ -36,5 +39,8 @@ def power_calculator():
 # Run the calculator
 power_calculator()
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     

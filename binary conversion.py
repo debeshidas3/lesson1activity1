@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 n = int(input("Enter a decimal number"))
 bits = []
 for weight in [8, 4, 2, 1]:             
@@ -17,6 +18,8 @@ print(f"Binary: {binary}")
 
 
 =======
+=======
+>>>>>>> Stashed changes
 n = int(input("Enter a decimal number"))
 bits = []
 for weight in [8, 4, 2, 1]:             
@@ -34,4 +37,7 @@ print(f"Binary: {binary}")
 
 
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

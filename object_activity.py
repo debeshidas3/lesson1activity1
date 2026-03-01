@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 class IOString():
       def __init__(self):
         self.str1 = ""
@@ -12,6 +13,8 @@ str1=IOString()
 
 str1.get_String()
 =======
+=======
+>>>>>>> Stashed changes
 class IOString():
       def __init__(self):
         self.str1 = ""
@@ -24,5 +27,8 @@ class IOString():
 str1=IOString()
 
 str1.get_String()
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 str1.print_String()

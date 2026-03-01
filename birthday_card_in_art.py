@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import turtle
 import random
 
@@ -120,6 +121,8 @@ draw_sparkles()
 turtle.done()
 
 =======
+=======
+>>>>>>> Stashed changes
 import turtle
 import random
 
@@ -238,5 +241,9 @@ draw_heart()
 draw_balloons()
 draw_sparkles()
 
+<<<<<<< Updated upstream
+turtle.done()
+>>>>>>> Stashed changes
+=======
 turtle.done()
 >>>>>>> Stashed changes

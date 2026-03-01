@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 height=int(input("enter the height"))
 weight=int(input("enter the weight"))
 bmi=weight/(height/100)**2
@@ -8,6 +9,8 @@ if bmi<=25:
 else:
     print("you are obese")    
 =======
+=======
+>>>>>>> Stashed changes
 height=int(input("enter the height"))
 weight=int(input("enter the weight"))
 bmi=weight/(height/100)**2
@@ -16,4 +19,7 @@ if bmi<=25:
    print("you are healthy")
 else:
     print("you are obese")    
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

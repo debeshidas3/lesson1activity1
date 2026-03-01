@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 num=input("enter a number")
 length=len(num)
 if length<3:
@@ -14,6 +15,8 @@ else:
         product=d
         print("middle digit is",d)
 =======
+=======
+>>>>>>> Stashed changes
 num=input("enter a number")
 length=len(num)
 if length<3:
@@ -28,5 +31,8 @@ else:
         d=int(num[length//2])
         product=d
         print("middle digit is",d)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     print("product",product)           

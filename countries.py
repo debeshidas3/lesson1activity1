@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 class India():
     def capital(self):
         print("new Delhi is the capital of India.")
@@ -26,6 +27,8 @@ for country in (obj_ind, obj_usa):
     country.capital()
     country.language()
 =======
+=======
+>>>>>>> Stashed changes
 class India():
     def capital(self):
         print("new Delhi is the capital of India.")
@@ -52,5 +55,8 @@ obj_usa = USA()
 for country in (obj_ind, obj_usa):
     country.capital()
     country.language()
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     country.type()
