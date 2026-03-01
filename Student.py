@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 class Student:
 
       grade = 10
@@ -10,4 +11,18 @@ class Student:
 # create an object
 
 ob = Student()
+=======
+class Student:
+
+      grade = 10
+
+
+      def __init__(self):
+
+          print("Hi, I am a student of grade", self.grade)
+
+# create an object
+
+ob = Student()
+>>>>>>> Stashed changes
       

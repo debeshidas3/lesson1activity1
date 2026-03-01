@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 a = 10
 b = 20
 c = 30
@@ -7,4 +8,15 @@ print("Before:", a, b, c)
 # Swapping
 a, b, c = b, c, a
 
+=======
+a = 10
+b = 20
+c = 30
+
+print("Before:", a, b, c)
+
+# Swapping
+a, b, c = b, c, a
+
+>>>>>>> Stashed changes
 print("After:", a, b, c)

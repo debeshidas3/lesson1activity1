@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 import pygame
 
 pygame.init()
@@ -12,4 +13,20 @@ while not done:
         if event.type == pygame.QUIT:
             pygame.quit()
 
+=======
+import pygame
+
+pygame.init()
+
+screen = pygame.display.set_mode((400,500))
+
+done = False
+
+while not done:
+      
+      for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            pygame.quit()
+
+>>>>>>> Stashed changes
       pygame.display.flip()      
