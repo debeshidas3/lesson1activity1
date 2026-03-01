@@ -1,0 +1,11 @@
+# Requirements for a basic Python project with data structures and algorithms
+
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Additional Libraries
+asyncio
+collections
+functools
